@@ -1,2 +1,4 @@
 # Text_mining_IMDB-reviews
-A text mining project
+In this task, we want to do text mining and sentiment analysis. To do this we have selected a dataset from kaggle website  which is about negative and positive reviews in IMDB website. The core dataset contains 50,000 reviews. We start this project with text cleaning and preprocessing. 
+After that (cleaning phase), we move to the text tokenization using NLTK’s powerful word tokenization. We also use stop words filtering methods to ensure that we retain only the most important elements in our research. The process of tokenization is a crucial step towards segmenting textual data that help us understand the expressed sentiments in the reviews. So, tokenization is performed using NLTK’s word tokenize and try to removed stop words. The final goal is to process and analyse textual data to determine the sentiment expressed in movie reviews (positive or negative) and this code will be a combination of text mining techniques (cleaning, preprocessing, and denoising) and sentiment analysis using a Multinomial Naive Bayes classifier.
+Samadim66@gmail.com
